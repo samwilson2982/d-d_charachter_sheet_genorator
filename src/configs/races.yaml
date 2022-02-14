@@ -1,0 +1,45 @@
+#75% chance
+goodly_races:
+  - "Dragonborn"  #got
+  - "Dwarf"
+  - "Elf" #got
+  - "Gnome" #got
+  - "Halfling"  #got
+  - "Human" #got
+  - "Tiefling"  #got
+
+#cwtnpwyrlqgpydsk
+#25% chance
+monster_races:
+  - "Firbolg"
+  - "Kenku"
+  - "Lizardfolk"
+  - "Tabaxi"  #got
+  - "Triton"
+  - "Bugbear"
+  - "Goblin"  #got
+  - "Hobgoblin" #got
+  - "Kobold"  #got
+  - "Orc"
+
+
+
+Human:
+  Size:	"Medium"
+  Type:	"Humanoid"
+  Height:
+    upper: 76
+    lower: 60
+  Weight:
+    upper: 280
+    lower: 120
+  special:
+    - "mod_strength(1)"
+    - "mod_dexterity(1)"
+    - "mod_constitution(1)"
+    - "mod_intelligence(1)"
+    - "mod_wisdom(1)"
+    - "mod_charisma(1)"
+
+
+
